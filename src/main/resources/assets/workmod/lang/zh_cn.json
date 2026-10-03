@@ -1,0 +1,32 @@
+{
+  "item.workmod.explorer_compass": "探路罗盘",
+  "item.workmod.unnamed_stone": "无名石碑",
+  "item.workmod.traveler_stone": "旅者石碑",
+  "item.workmod.ancient_stone": "古老石碑",
+  "item.workmod.soul_stone": "魂系石碑",
+  "item.workmod.home_marker": "家园标记",
+  "item.workmod.blueprint": "建筑蓝图",
+  "item.workmod.protection_crystal": "保护水晶",
+
+  "item.workmod.curse.main_ring": "探险者之悲",
+  "item.workmod.curse.greed_hand": "贪婪之手",
+  "item.workmod.curse.envy_eye": "嫉妒之眼",
+  "item.workmod.curse.wrath_hammer": "暴怒之锤",
+  "item.workmod.curse.sloth_stone": "怠惰之石",
+  "item.workmod.curse.pride_crown": "傲慢之冠",
+  "item.workmod.curse.lust_flower": "色欲之花",
+  "item.workmod.curse.fear_heart": "恐惧之心",
+
+  "command.workmod.help.title": "§6=== Workmod 命令 ===",
+  "command.workmod.help.tp": "§e/workmod:tp <目标> §7传送（OP）",
+  "command.workmod.help.anguish": "§e/workmod:anguish §7实时难度",
+  "command.workmod.help.debug": "§e/workmod:debug §7调试",
+  "command.workmod.help.dimension": "§e/workmod:dimension §7切换维度",
+  "command.workmod.help.genroad": "§e/workmod:genroad §7测试铺路（面前60格）",
+  "command.workmod.help.market": "§e/workmod:market §7旅者商会（线上交易）",
+  "command.workmod.help.buy": "§e/workmod:buy <npc> <t> §7购买（绿宝石，觉醒等级限制）",
+  "command.workmod.help.curse": "§e/workmod:curse §7饰品强度调节（set/reset/list）",
+  "command.workmod.help.ring": "§e/workmod:ring §7随身饰品栏（主戒扩栏，put/take/upgrade）",
+
+  "workmod.msg.dimension_cannot": "§c无法传送到该维度"
+}

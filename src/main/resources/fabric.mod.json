@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "workmod",
+  "version": "${version}",
+  "name": "Workmod Adventure",
+  "description": "冒险路网模组：道路连接宏伟建筑、极致成就、诅咒饰品、三界裂隙、峡谷高山雕刻",
+  "authors": ["shiyan2364-hub"],
+  "contact": {
+    "sources": "https://github.com/shiyan2364-lab/workmod"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.shiyan2364.workmod.Workmod"],
+    "client": ["com.shiyan2364.workmod.client.WorkmodClient"]
+  },
+  "mixins": ["workmod.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  },
+  "recommends": {
+    "overflowing-heights": "*"
+  },
+  "suggests": {
+    "waystones": "*"
+  }
+}

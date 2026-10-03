@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.shiyan2364.workmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "TerrainSculptMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
